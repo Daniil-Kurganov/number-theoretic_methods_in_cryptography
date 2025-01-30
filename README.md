@@ -15,4 +15,4 @@
 - решение систем сравнений 1-й степени;
 - решение сравнений 2-й степени.
 ## Установка
-```github.com/Daniil-Kurganov/number-theoretic_methods_in_cryptography```
+```go get github.com/Daniil-Kurganov/number-theoretic_methods_in_cryptography```
