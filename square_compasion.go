@@ -1,4 +1,4 @@
-package numbertheoreticmethodsincryptography
+package numbertheoretic_methods_in_cryptography
 
 import (
 	"fmt"
